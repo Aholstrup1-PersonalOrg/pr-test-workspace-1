@@ -9,5 +9,6 @@
   "doNotRunTests": true,
   "enableCodeCop": true,
   "preprocessorSymbols": ["CLEAN"],
+  "workspaceCompilationParallelism": -1,
   "templateSha": "41a5e6d947636f11303f033b88ff04018abddec2"
 }
